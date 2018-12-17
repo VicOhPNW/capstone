@@ -38,4 +38,10 @@ This is a work in process - there maye be many aspects of this page that are non
 
 ## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
+- C#
+- React
+
 #### _Copyright_ (c) 2018 Victoria Oh, Epicodus
