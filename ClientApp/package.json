@@ -15,6 +15,7 @@
     "randomatic": "^3.1.1",
     "react": "^16.6.3",
     "react-bootstrap": "^0.31.5",
+    "react-dev-utils": "^6.1.1",
     "react-dom": "^16.6.3",
     "react-router-bootstrap": "^0.24.4",
     "react-router-dom": "^4.3.1",
