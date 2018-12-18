@@ -25,6 +25,10 @@ The [original proposal](https://docs.google.com/document/d/1zBrqdBsdz7zHvyJbsR9m
 | User Stories                                                                                               | Status |
 | ---------------------------------------------------------------------------------------------------------- | ------ |
 | [Component Structure ](https://drive.google.com/file/d/1N_rpiPu8BWFBReqskOTEA3Anw2aRsh-1/view?usp=sharing) | √      |
+| User is able to route to About, Contact, and Menu pages.                                                   |        |
+| Non-existent paths will route users to Error404.                                                           |        |
+| User is able to read reviews from other platforms .                                                        |        |
+|                                                                                                            |        |
 
 ## Further help/support and contact details
 
