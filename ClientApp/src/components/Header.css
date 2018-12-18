@@ -1,0 +1,9 @@
+.jumbotron {
+  text-align: center;
+  /* background-image: url("../assets/img/mtRainier1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; */
+  margin-top: 5%;
+  background-color: rgba(71, 139, 182, 0.1);
+  border-radius: 25px;
+}
