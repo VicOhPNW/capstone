@@ -1,8 +1,9 @@
 import React from "react";
+import "./Splash.css";
 
 function Splash() {
   return (
-    <div>
+    <div className="splashPage">
       <p>Splash stuff</p>
     </div>
   );
